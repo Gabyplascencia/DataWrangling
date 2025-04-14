@@ -1,4 +1,4 @@
-# Online supermarket and its customers' behavior
+# Instacart and its customers' behavior
 This dataset will tell us about an online store's products and its customers' behavior, enabling us to improve products and the shopping experience.
 
 ## 🏁Objetive
